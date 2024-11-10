@@ -3,6 +3,7 @@ Spigot plugin for Bow Boost practicing
 
 # Screenshot:
 <img src="https://imgur.com/DEPYxpe.png">
+
  - Changed the title to "Good Job!" in the newest version
  - Showcase video: https://imgur.com/uvgp2KG
 
