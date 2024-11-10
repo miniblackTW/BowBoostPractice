@@ -1,0 +1,6 @@
+name: BowBoostPractice
+version: 1.0
+main: me.miniblacktw.bowboost.Main
+api-version: 1.8
+author: miniblack_TW
+description: A practice plugin for bow boosting with unique features for players.
