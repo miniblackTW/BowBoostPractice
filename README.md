@@ -23,4 +23,3 @@ Spigot plugin for Bow Boost practicing
 # Depend:
  - [ArrowRemover](https://www.spigotmc.org/resources/arrowremover.54993/)
  - [MMCPunch](https://www.spigotmc.org/resources/mmcpunch.107863/), (knockback - x: 4.2 , z: 4.2)
- - [NoHungerAndFallDamage]
