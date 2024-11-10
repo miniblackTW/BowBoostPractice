@@ -9,7 +9,7 @@ Spigot plugin for Bow Boost practicing
 
 # Setup:
  - Create a world named "world2"
-   Islands (Total:  20 islands):
+ - Islands (Total:  20 islands):
    - 1 (0, 67, 0) ; Endpoint (Z > 20)
    - 2 (30, 67, 0) ; Endpoint (Z > 20)
    - 3 (60, 67, 0) ; Endpoint (Z > 20)
