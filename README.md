@@ -17,4 +17,4 @@ Spigot plugin for Bow Boost practicing
      - same structure...
     Anyway, you have to build islands for them
 
-# - If you are using Bungeecord, the red dye (for leaving the server with /lobby ) works
+ - If you are using Bungeecord, the red dye (for leaving the server with /lobby ) works
