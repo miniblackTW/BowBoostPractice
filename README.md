@@ -16,6 +16,6 @@ Spigot plugin for Bow Boost practicing
      - 4 (90, 67, 0) ; Endpoint (Z > 20)
      - 5 (120, 67, 0) ; Endpoint (Z > 20)
      - same structure...
-    Anyway, you have to build islands for them
+    + Anyway, you have to build islands for them
 
  - If you are using Bungeecord, the red dye (for leaving the server with /lobby ) works
